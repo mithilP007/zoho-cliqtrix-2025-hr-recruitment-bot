@@ -247,8 +247,8 @@ Detailed documentation available in `/docs` folder:
 
 ## 👨‍💻 Developer
 
-**Name**: Abishek P  
-**College**: Mithil Kathir College of Engineering  
+**Name**: Mithil P  
+**College**: Kathir College of Engineering  
 **GitHub**: [@mithilP007](https://github.com/mithilP007)  
 **Competition**: Zoho Cliqtrix 2025  
 
@@ -264,7 +264,7 @@ This is a competition project. For queries, please open an issue.
 
 For questions or feedback:
 - GitHub Issues: [Create an issue](https://github.com/mithilP007/zoho-cliqtrix-2025-hr-recruitment-bot/issues)
-- Email: [Your email]
+- Email: mithil1323@gmail.com
 
 ## 🏅 Acknowledgments
 
